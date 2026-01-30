@@ -6,7 +6,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?DanielSantin1=&color=blue&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=DanielSantin1&color=blue&style=flat-square" />
 </p>
 
 ---
@@ -14,19 +14,17 @@
 ## 🧠 Sobre mim
 
 - 🎓 Formado em **Análise e Desenvolvimento de Sistemas**
-- 🛠️ Trabalho com **suporte técnico e sistemas corporativos**
-- 🧩 Curto resolver **problemas reais**, não só exercício de curso
+- 🛠️ Atuação com **suporte técnico e sistemas corporativos**
+- 🧩 Foco em **resolver problemas reais**, não só exercícios acadêmicos
 - 📚 Estudando **backend, Python e banco de dados**
-- 🎯 Foco: **crescer como desenvolvedor sólido**, sem pular etapas
+- 🎯 Objetivo: **crescer como desenvolvedor sólido**, sem pular etapas
 
 ---
 
 ## 🛠️ Tecnologias
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,js,dart,git,github,vscode,windows,macOS" />
-
+  <img src="https://skillicons.dev/icons?i=python,js,dart,git,github,vscode,windows,macos" />
 </div>
 
 ---
@@ -37,7 +35,7 @@
 📊 Manipulação e análise de dados com Python  
 🧠 Código organizado, foco em clareza e boas práticas  
 
-👉 **Repositório:** [[link aqui]](https://github.com/DanielSantin1/teste-intuitive-care)
+👉 **Repositório:** https://github.com/DanielSantin1/teste-intuitive-care
 
 ---
 
@@ -55,18 +53,7 @@
 - Banco de dados SQL
 - Boas práticas de versionamento
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=DanielSantin1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielSantin1&layout=compact&langs_count=7&theme=tokyonight"/>
-
-</div>
-
----
+--
 
 ## 📫 Onde me encontrar
 
@@ -82,6 +69,5 @@
 
 </div>
 
----
 
 ⭐ Curtiu algum projeto? Uma estrela ajuda mais do que parece.
