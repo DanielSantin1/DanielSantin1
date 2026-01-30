@@ -53,8 +53,6 @@
 - Banco de dados SQL
 - Boas práticas de versionamento
 
---
-
 ## 📫 Onde me encontrar
 
 <div align="center">
